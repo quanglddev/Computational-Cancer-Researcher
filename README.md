@@ -1,2 +1,2 @@
-# Computational-Cancer-Researcher
+# Computational Cancer Researcher
 A simple program counting SNPs and small indels
